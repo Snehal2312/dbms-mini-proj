@@ -57,7 +57,7 @@ SELECT * FROM EXHIBITION
  INSERT INTO ARTIST VALUES('AMY','B','MUSK','12534','234567891','2001-12-1','Cambridge street,alex gardens','M','FRANCE');
  INSERT INTO ARTIST VALUES('John', 'B', 'Smith', '12345','123456789', '1965-01-09', '731 Fondren, Houston, TX', 'M', 'EUROPE');
 INSERT INTO ARTIST VALUES('Franklin', 'T', 'Wong','22345', '333445555', '1955-12-08', '638 Voss, Houston, TX', 'M','GERMANY');
-
+#hello 
 
 
 
