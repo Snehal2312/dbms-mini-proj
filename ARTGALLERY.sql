@@ -72,10 +72,17 @@ SELECT * FROM EXHIBITION
  SELECT * FROM ARTIST
  SELECT * FROM ARTWORK
 
- INSERT INTO ARTIST VALUES('AMY','B','MUSK','12534','234567891','2001-12-1','Cambridge street,alex gardens','M','FRANCE');
- INSERT INTO ARTIST VALUES('John', 'B', 'Smith', '12345','123456789', '1965-01-09', '731 Fondren, Houston, TX', 'M', 'EUROPE');
-INSERT INTO ARTIST VALUES('Franklin', 'T', 'Wong','22345', '333445555', '1955-12-08', '638 Voss, Houston, TX', 'M','GERMANY');
-
+ INSERT INTO ARTIST VALUES('Hans','Von','Aachen','12534','234567891','2001-12-1','Cambridge street,alex gardens','M','FRANCE');
+ INSERT INTO ARTIST VALUES('Jan','van','Amstel','12345','123456789', '1965-01-09', '731 Fondren, Houston, TX', 'M', 'EUROPE');
+ INSERT INTO ARTIST VALUES('Barnaba', 'da' ,'Modena','22345', '333445555', '1955-12-08', '638 Voss, Houston, TX', 'M','GERMANY');
+ INSERT INTO ARTIST VALUES('Gian','Lorenzo','Bernini ','12534','234567891','2001-12-1','Cambridge street,alex gardens','M','FRANCE');
+ INSERT INTO ARTIST VALUES('Jan','Van','Bijlert ','12534','234567891','2001-12-1','Cambridge street,alex gardens','M','FRANCE');
+ INSERT INTO ARTIST VALUES('Giovanni','Antonio','Boltraffio','12534','234567891','2001-12-1','Cambridge street,alex gardens','M','FRANCE');
+ INSERT INTO ARTIST VALUES('Bono','da','Ferrara','12534','234567891','2001-12-1','Cambridge street,alex gardens','M','FRANCE');
+ INSERT INTO ARTIST VALUES('Gerard','ter','Borch','12534','234567891','2001-12-1','Cambridge street,alex gardens','M','FRANCE');
+ INSERT INTO ARTIST VALUES('John','Lewis','Brown','12534','234567891','2001-12-1','Atlantic Coast,Bordeaux','M','FRANCE');
+ INSERT INTO ARTIST VALUES('Joos','Van','Cleve','12534','234567891','2001-12-1','Rosemary street,Antwerp','M','BELGIUM');
+ 
 
 
 
